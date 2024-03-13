@@ -3,7 +3,7 @@ public class Calculator
     // This class does not need instance variables!
     
     // Prints the sum of x and y
-    public void sum(double x, double y)
+    public void add(double x, double y)
     {
         double result = x + y;
         System.out.print(x);
